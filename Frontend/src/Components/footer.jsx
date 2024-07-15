@@ -23,7 +23,7 @@ const Footer = () => {
           </p>
           <a
             className={`${styles.facebook}`}
-            href="https://facebook.com/groups/33311002137/"
+            href="https://www.facebook.com/profile.php?id=100010086975771"
             target="_blank"
             rel="noreferrer"
           >
@@ -61,11 +61,11 @@ const Footer = () => {
             <br />
             <a
               className={`${styles.name}`}
-              href="https://www.linkedin.com/in/abhishek-kumar-4b1470216/"
+              href="https://www.linkedin.com/in/vikaskashyap1334/"
               target="_blank"
               rel="noreferrer"
             >
-              Abhishek Kumar
+              Vikas Kashyap
             </a>
             {/* <br />
             <a
@@ -76,7 +76,7 @@ const Footer = () => {
             >
               Vivek Kamboj
             </a> */}
-            <br />
+{/*             <br />
             <br /> 
              <span style={{ fontWeight: "bolder" }}>Designed By </span>
             <br />
@@ -87,7 +87,7 @@ const Footer = () => {
               rel="noreferrer"
             >
               Anup Kumar Gond
-            </a>
+            </a> */}
           </p>
           <p>
             For any queries, reach out to us at email
