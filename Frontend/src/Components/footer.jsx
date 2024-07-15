@@ -100,7 +100,7 @@ const Footer = () => {
       <div className={`${styles.footerBottom}`}>
         <hr className={`${styles.line}`} />
         <p style={{ textAlign: "center" }}>
-          Copyright &copy; 2023 SEVA FOUNDATION KNITSLN. All Rights Reserved.
+          Copyright &copy; 2024 SEVA FOUNDATION KNITSLN. All Rights Reserved.
         </p>
       </div>
     </footer>
